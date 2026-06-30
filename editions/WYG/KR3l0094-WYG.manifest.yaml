@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3l0094/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3l0094/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 海內十洲記
+  date: '2015-08-24 23:40:22.792544'
+  source:
+    repository: kanripo
+    path: KR3l0094
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3l0094_000-WYG.yaml, hash: 'sha256:b212c22293be79d2edfa9bfcc972d1f8342a1d3e74d99819c682bc6fc0364246'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3l0094_000-WYG.markers.yaml, hash: 'sha256:82c2fc708d4c33457cce10aee0e7d2b8407b139f992a1a850979777969281427'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3l0094_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 440
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3l0094_WYG_000-3a
+    span:
+    - body
+    - 440
+    - 4709
+  label: 海内十洲記
+  type: section
+  level: 1
+hash: sha256:cce58dcfb92492e24da088b7e7915d3516ccd3dfbeaaf41f8755f3bd53f5fc3c
