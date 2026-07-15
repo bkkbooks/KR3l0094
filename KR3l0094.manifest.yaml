@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3l0094/v1
 canonical_location: https://kanripo.org/bkk/KR3l0094/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 海內十洲記
   date: '2015-08-24 23:40:22.792544'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3l0094_000.yaml, hash: 'sha256:07a86039b3f6e997100e74650c126fc591649bf13c3b6a29136ea111602a39f2'}
+  - {seq: 0, filename: KR3l0094_000.yaml, hash: 'sha256:a9a2723c14219b15ccf5e7b30652e66eda8c5aa0a0e0ffab16886c478dbcc4ce'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0094_000.markers.yaml, hash: 'sha256:c172c4390b7de18a50783ae64abb5954245bc6886530103593b5c58f09e8655e'}
+  - {seq: 0, role: markers, filename: assets/KR3l0094_000.markers.yaml, hash: 'sha256:d8abf3c39487e6ddb1b93bae745c569ad3de6c29b2e1d81f037307dbc8495d97'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 海内十洲記
   type: section
   level: 1
-hash: sha256:daaa553015dd12acb0c726d118edac1d887d0484276ed9a8b11b05e78c3b2f13
+hash: sha256:9faa3ec8dfbb3b3b2ce0a84d64bcff0f4725dcbee50217bbbcbc37e3a3e5fb81
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
