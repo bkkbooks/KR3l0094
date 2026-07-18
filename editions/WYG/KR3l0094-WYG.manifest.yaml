@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3l0094_000-WYG.yaml, hash: 'sha256:b212c22293be79d2edfa9bfcc972d1f8342a1d3e74d99819c682bc6fc0364246'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0094_000-WYG.markers.yaml, hash: 'sha256:82c2fc708d4c33457cce10aee0e7d2b8407b139f992a1a850979777969281427'}
+  - {seq: 0, role: markers, filename: assets/KR3l0094_000-WYG.markers.yaml, hash: 'sha256:21e850b22f676a896d0f117b88c902f40fbe8556fd8d0f892c444860a510abba'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 海内十洲記
   type: section
   level: 1
-hash: sha256:cce58dcfb92492e24da088b7e7915d3516ccd3dfbeaaf41f8755f3bd53f5fc3c
+hash: sha256:df86dfee8ac985aac34584a782f3a874e7b195fc093d8b9ed7db79bcdc4d1f8a
